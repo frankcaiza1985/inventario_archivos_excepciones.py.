@@ -1,0 +1,1 @@
+# inventario_archivos_excepciones.py.
